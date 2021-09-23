@@ -69,4 +69,6 @@ screen-by-screen print of /etc: ls -lR
 15. find /etc -ctime +1 |head -n 5
 - find last 5 files that have recently accessed
 
+16. nano txt
+
 
