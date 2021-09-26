@@ -1,7 +1,3 @@
-# DevOps
-Danil Ignatushkin 
-
-- LinuxNet------------------------------
 - VM1 interface(NAT, internal)
 1. sudo nano /etc/network/interfaces
 
@@ -36,6 +32,3 @@ iface inet eth0 dhcp"
 6. host epam.com #Check ip resource "epam.com"
 7. route # Route to my HOST from VM1
 8. traceroute google.com #Trace route to google.com
-
-------------------------------------
-
