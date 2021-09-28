@@ -1,0 +1,3 @@
+apache_logs.txt
+302 /vote/1279
+302 /vote/1353

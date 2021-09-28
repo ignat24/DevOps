@@ -1,0 +1,18 @@
+- Part 1 -----------------
+1. create script file
+- sudo nano task1_script
+2. edit permision of task1_script
+- chmod +x task1_script
+3. edit task1_script
+- sudo nano task1_script
+4. Write bash script in task1_script(check images: script_part1 and script_part2)
+5. test:
+- ./task1_script
+- ./task1_script --all
+- ./task1_script --target
+- ./task1_script --all --target
+- check 3 parametrs: ./task1_script --all --target --test
+------------------------------
+ - Part 2
+ 
+ 

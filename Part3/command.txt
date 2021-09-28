@@ -1,0 +1,10 @@
+1. create script for copy
+- sudo nano copy_script
+- Script:
+- #!/bin/bash
+- rsync -avh $1 $2
+2. add script to crontab
+- sudo apt install cron
+- add to crontab -e:
+- * * * * * path to script/copy_script first_param second_param
+- Нее разобрался с логами, записывает только в syslog

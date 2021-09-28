@@ -1,0 +1,15 @@
+1. create script.sh
+- file: script.sh
+- use "awk '{print $#}'
+2. Check script:
+- ./script.sh 
+- Keys:
+- 1 keys - filename
+- 2 keys:
+--pt - popular time | --nep - not_existent_pages | --bp - bots pages | --ar - all_requests [--all - all requests | --p - most popular ip]
+- ./script.sh apache_logs.txt --pt
+- ./script.sh apache_logs.txt --nep
+- ./script.sh apache_logs.txt --bp
+- ./script.sh apache_logs.txt --ar --all
+- ./script.sh apache_logs.txt --ar --p
+3. After check dir, all information I saving in files.
