@@ -1,0 +1,7 @@
+Bot ip: 66.249.78.65 name: Googlebot/2.1;
+Bot ip: 157.55.39.250 name: bingbot/2.0;
+Bot ip: 157.55.39.182 name: bingbot/2.0;
+Bot ip: 66.249.69.39 name: Googlebot/2.1;
+Bot ip: 66.249.78.58 name: Googlebot/2.1;
+Bot ip: 157.55.39.174 name: bingbot/2.0;
+Bot ip: 207.46.13.48 name: bingbot/2.0;
